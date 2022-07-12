@@ -20,6 +20,15 @@ Data is collected from hospital. All the required tasks to prepare the data for 
 ##### 6.Pickle File : Selected model as per best precision score & recall and created pickle file using pickle library.
 ##### 7.Webpage &Deployment : Created a web application using streamlit API that takes all the necessary inputs from the user & shows the output. Then deployed project on the Heroku Platform.
 
+# WEB INTERFACE :
+#####INTERFACE
+![alt tag](https://github.com/AishwaryaMate99/Fraud_detection_app/blob/main/Images/interface.jpg)
+##### Prediction:
+##### Fraud Claim prediction:
+![alt tag](https://github.com/AishwaryaMate99/Fraud_detection_app/blob/main/Images/Fraud_Claim.jpg)
+##### Genuine Claim prediction:
+![alt tag](https://github.com/AishwaryaMate99/Fraud_detection_app/blob/main/Images/Genuine_claim.jpg)
+
 
 # LIBRARIES USED :
 1) Pandas
