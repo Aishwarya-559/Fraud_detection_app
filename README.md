@@ -21,7 +21,7 @@ Data is collected from hospital. All the required tasks to prepare the data for 
 ##### 7.Webpage &Deployment : Created a web application using streamlit API that takes all the necessary inputs from the user & shows the output. Then deployed project on the Heroku Platform.
 
 # WEB INTERFACE :
-#####INTERFACE
+##### INTERFACE
 ![alt tag](https://github.com/AishwaryaMate99/Fraud_detection_app/blob/main/Images/interface.jpg)
 ##### Prediction:
 ##### Fraud Claim prediction:
